@@ -20,3 +20,9 @@ var ROLES;
 })(ROLES || (ROLES = {}));
 ;
 console.log(ROLES.CEO);
+// Arrays
+let companies = ["Google", "29Dev", "Amazon", 60, true];
+// Arrays String
+let names = ["Afonso", "Carlos", "Joaquim"];
+let planets = ["Terra", "Venus", 'Marte'];
+let dadosEstudante = ["André", 20, "Rua do Comércio", "IMAG - Uige"];
